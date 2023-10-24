@@ -1,0 +1,4 @@
+ia\yolov3.weights
+__pycache__/
+database\__pycache__
+controllers\__pycache__
